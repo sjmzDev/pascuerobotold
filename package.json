@@ -1,0 +1,21 @@
+{
+  "name": "pascuero-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chatgpt": "^5.2.5",
+    "discord-html-transcripts": "^3.1.4",
+    "discord.js": "^14.11.0",
+    "glob": "^8.0.3",
+    "mongoose": "^7.4.3",
+    "transcripter": "^1.0.4"
+  }
+}
