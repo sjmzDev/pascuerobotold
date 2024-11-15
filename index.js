@@ -85,7 +85,7 @@ client.on("messageCreate", (message) => {
     }
 
     if(command === `comoestas`) { 
-        message.channel.send("no sé, tu dime <@667878174478172179>")
+        message.channel.send("no sé, tu dime ")
     }
 
     if(command === `raid`) { 
